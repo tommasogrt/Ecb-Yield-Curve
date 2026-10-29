@@ -1,7 +1,7 @@
 """
 Euro Area Sovereign Yield Curve Modeling, PCA Decomposition, and Stress Testing
 -------------------------------------------------------------------------------
-Author: Data Science Candidate for ECB Traineeship
+Author: Tommaso Grattacagio
 Data Source: European Central Bank (ECB) Data Portal API
 Description: Parametrization of the Euro Area AAA spot yield curve using the
              Nelson-Siegel model, dimensionality reduction via Principal
